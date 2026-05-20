@@ -1,4 +1,3 @@
-# raman-spectroscopy-data-analysis
 # Análisis de Datos de Espectroscopía Raman Biomédica
 
 ## Descripción
